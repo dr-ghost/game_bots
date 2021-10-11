@@ -116,7 +116,7 @@ class board():
                 l.append([m] + p)
         return l 
 
-#main()
+
 map1 = board()
 map1.game_loop()
 
